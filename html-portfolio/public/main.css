@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0.55px;
+}
+
+ul{
+    text-align: justify;
+}
+
+img{
+    border: 2px solid #050505;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+a{
+    border: 2px solid #050505;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+li{
+    margin-bottom: 2px;
+}
